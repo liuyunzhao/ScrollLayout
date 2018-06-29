@@ -3,9 +3,7 @@
 ## **[ 博客地址具体讲解https://blog.csdn.net/liu_yunzhao/article/details/80387158 ](https://blog.csdn.net/liu_yunzhao/article/details/80387158)** ##
 
 ## 示例演示 ##
-![](https://github.com/liuyunzhao/ScrollLayout/blob/master/gif/map.gif)
-
-![](https://github.com/liuyunzhao/ScrollLayout/blob/master/gif/map2.gif)
+![](https://github.com/liuyunzhao/ScrollLayout/blob/master/gif/map.gif) ![](https://github.com/liuyunzhao/ScrollLayout/blob/master/gif/map2.gif)
 
 ## **[Demo下载 ](https://github.com/liuyunzhao/ScrollLayout/blob/master/gif/app-debug.apk)** ##
 
